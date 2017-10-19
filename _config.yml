@@ -1,0 +1,8 @@
+title: Phar Update
+description: A library for self-updating Phars.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
